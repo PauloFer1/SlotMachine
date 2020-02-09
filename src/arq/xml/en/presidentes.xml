@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app>
+  <contents>
+    <presidentes>
+    <item cat="7" id="207" views="0" peso="1" lang="pt" titulo="Guilherme do Carmo Pacheco" nome_abreviado="" lead="" texto="EN No cumprimento de um decreto de 14 de Fevereiro de 1907, o FC Porto procedeu à legalização do clube com a entrega, a 4 de Maio de 1912, no Governo Civil do Porto, de estatutos renovados. A importante documentação foi assinada pelo presidente Guilherme do Carmo Pacheco, o primeiro Sócio Honorário do clube.
+A presidência de Guilherme do Carmo Pacheco não foi além de um ano, mas influenciou a consolidação desportiva e social do FC Porto no despertar do Século XX. O clube institucionaliza-se à imagem dos projectos e das ambições que dominaram a liderança de José Monteiro da Costa, e o depósito de estatutos em sede do Governo Civil contribuiu para a aceleração do emblema como força cada vez mais admirada na paisagem desportiva e social.
+O futebol, naturalmente, reflectia a ambição portista, e sob a liderança de Guilherme do Carmo Pacheco, o universo azul e branco celebrou o triunfo na segunda edição da Taça Monteiro da Costa, troféu criado pelo FC Porto em homenagem ao antigo presidente do clube, falecido em Janeiro de 1911. 
+A marca do FC Porto é crescente e, à passagem de Guilherme do Carmo Pacheco pela presidência do clube, chegou do Brasil um convite para uma deslocação ao Rio de Janeiro e realização de um jogo frente ao Botafogo. Oferta tentadora, mas a estratégia de internacionalização do FC Porto olhava, nesta altura, à importância de afirmar qualidade também na organização de eventos, como a recepção à equipa espanhola do Real Fortuna de Vigo, em Março de 1912." data_nascimento="1881-05-17" imagem="" imagem_id="0" data_pub="2013-09-07" hora_pub="10:16:31">
+        <items_relacionados>
+          <item_relacionado id_pai="207" cat="23" id="208" titulo="1911 - 1912" lead="" texto="" data_inicio="1911-09-21" data_fim="1912-06-09" imagem="" video="" data_pub="2013-09-07" hora_pub="10:16:48" data_item="2013-09-07" />
+        </items_relacionados>
+        <imagens>
+          <imagem id="207" id_grupo="1" nome_grupo="Galeria de Imagens" id_imagem="227" nome_imagem="5_1.jpg" descricao_imagem="Guilherme do Carmo Pacheco 5" />
+          <imagem id="207" id_grupo="1" nome_grupo="Galeria de Imagens" id_imagem="226" nome_imagem="4_2.jpg" descricao_imagem="Guilherme do Carmo Pacheco 4" />
+          <imagem id="207" id_grupo="1" nome_grupo="Galeria de Imagens" id_imagem="225" nome_imagem="3_2.jpg" descricao_imagem="Guilherme do Carmo Pacheco 3" />
+          <imagem id="207" id_grupo="1" nome_grupo="Galeria de Imagens" id_imagem="224" nome_imagem="2_1.jpg" descricao_imagem="Guilherme do Carmo Pacheco 2" />
+          <imagem id="207" id_grupo="1" nome_grupo="Galeria de Imagens" id_imagem="223" nome_imagem="1_2.jpg" descricao_imagem="Guilherme do Carmo Pacheco 1" />
+        </imagens>
+      </item>
+    </presidentes>
+  </contents>
+</app>

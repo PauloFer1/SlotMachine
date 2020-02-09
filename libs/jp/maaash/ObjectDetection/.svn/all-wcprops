@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/172/trunk/lab/webcam/face_driven_3D/dev/libs/jp/maaash/ObjectDetection
+END
+Feature2Rects.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/172/trunk/lab/webcam/face_driven_3D/dev/libs/jp/maaash/ObjectDetection/Feature2Rects.as
+END
+HaarCascade.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/172/trunk/lab/webcam/face_driven_3D/dev/libs/jp/maaash/ObjectDetection/HaarCascade.as
+END
+Feature3Rects.as
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/172/trunk/lab/webcam/face_driven_3D/dev/libs/jp/maaash/ObjectDetection/Feature3Rects.as
+END
+ObjectDetector.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/172/trunk/lab/webcam/face_driven_3D/dev/libs/jp/maaash/ObjectDetection/ObjectDetector.as
+END
+ObjectDetectorEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/172/trunk/lab/webcam/face_driven_3D/dev/libs/jp/maaash/ObjectDetection/ObjectDetectorEvent.as
+END
+FeatureBase.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/172/trunk/lab/webcam/face_driven_3D/dev/libs/jp/maaash/ObjectDetection/FeatureBase.as
+END
+TargetImage.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/172/trunk/lab/webcam/face_driven_3D/dev/libs/jp/maaash/ObjectDetection/TargetImage.as
+END
+HaarRect.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/172/trunk/lab/webcam/face_driven_3D/dev/libs/jp/maaash/ObjectDetection/HaarRect.as
+END
+FeatureTree.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/172/trunk/lab/webcam/face_driven_3D/dev/libs/jp/maaash/ObjectDetection/FeatureTree.as
+END
+ObjectDetectorOptions.as
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/172/trunk/lab/webcam/face_driven_3D/dev/libs/jp/maaash/ObjectDetection/ObjectDetectorOptions.as
+END

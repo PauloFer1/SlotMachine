@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app>
+  <contents>
+    <mandatos>
+      <item cat="23" id="1575" views="0" peso="1" lang="pt" titulo="1931 - 1933" lead="" texto="" data_inicio="1931-09-09" data_fim="1933-09-12" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-14" hora_pub="14:58:51">
+      </item>
+      <item cat="23" id="208" views="0" peso="1" lang="pt" titulo="1911 - 1912" lead="" texto="" data_inicio="1911-09-21" data_fim="1912-06-09" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:16:48">
+      </item>
+      <item cat="23" id="200" views="0" peso="1" lang="pt" titulo="1893" lead="" texto="" data_inicio="" data_fim="" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:05:38">
+      </item>
+      <item cat="23" id="202" views="0" peso="1" lang="pt" titulo="1907 - 1908" lead="" texto="" data_inicio="1907-02-09" data_fim="1908-02-08" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:08:29">
+      </item>
+      <item cat="23" id="203" views="0" peso="1" lang="pt" titulo="1908 - 1910" lead="" texto="" data_inicio="1908-02-09" data_fim="1910-10-15" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:09:53">
+      </item>
+      <item cat="23" id="204" views="0" peso="1" lang="pt" titulo="1910 - 1911" lead="" texto="" data_inicio="1910-10-16" data_fim="1911-01-30" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:11:30">
+      </item>
+      <item cat="23" id="206" views="0" peso="1" lang="pt" titulo="1911 - 1911" lead="" texto="" data_inicio="1911-03-16" data_fim="1911-09-20" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:13:06">
+      </item>
+      <item cat="23" id="210" views="0" peso="1" lang="pt" titulo="1912 - 1913" lead="" texto="" data_inicio="1912-06-10" data_fim="1913-06-20" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:18:55">
+      </item>
+      <item cat="23" id="211" views="0" peso="1" lang="pt" titulo="1913 - 1914" lead="" texto="" data_inicio="1913-06-21" data_fim="1914-06-14" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:19:49">
+      </item>
+      <item cat="23" id="213" views="0" peso="1" lang="pt" titulo="1914 - 1915" lead="" texto="" data_inicio="1914-06-15" data_fim="1915-06-26" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:21:30">
+      </item>
+      <item cat="23" id="214" views="0" peso="1" lang="pt" titulo="1915 - 1916" lead="" texto="" data_inicio="1915-06-27" data_fim="1916-07-09" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:23:02">
+      </item>
+      <item cat="23" id="216" views="0" peso="1" lang="pt" titulo="1916 - 1917" lead="" texto="" data_inicio="1916-07-10" data_fim="1917-08-05" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:25:10">
+      </item>
+      <item cat="23" id="218" views="0" peso="1" lang="pt" titulo="1917 - 1918" lead="" texto="" data_inicio="1917-08-06" data_fim="1918-08-04" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:26:39">
+      </item>
+      <item cat="23" id="219" views="0" peso="1" lang="pt" titulo="1918 - 1919" lead="" texto="" data_inicio="1918-08-05" data_fim="1919-08-12" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:27:33">
+      </item>
+      <item cat="23" id="220" views="0" peso="1" lang="pt" titulo="1919 - 1919" lead="" texto="" data_inicio="1919-08-13" data_fim="1919-09-04" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:28:46">
+      </item>
+      <item cat="23" id="221" views="0" peso="1" lang="pt" titulo="1919 - 1920" lead="Preside Comissão Administrativa que gere o clube" texto="" data_inicio="1919-09-05" data_fim="1920-09-03" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:29:54">
+      </item>
+      <item cat="23" id="223" views="0" peso="1" lang="pt" titulo="1920 - 1921" lead="" texto="" data_inicio="1920-09-04" data_fim="1921-10-11" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:31:34">
+      </item>
+      <item cat="23" id="224" views="0" peso="1" lang="pt" titulo="1921 - 1922 " lead="" texto="" data_inicio="1921-10-12" data_fim="1922-09-20" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:32:28">
+      </item>
+      <item cat="23" id="226" views="0" peso="1" lang="pt" titulo="1922 - 1923" lead="" texto="" data_inicio="1922-09-21" data_fim="1923-03-28" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:34:39">
+      </item>
+      <item cat="23" id="228" views="0" peso="1" lang="pt" titulo="1923 - 1923" lead="Preside Comissão Administrativa que gere o clube" texto="" data_inicio="1923-03-29" data_fim="1923-09-04" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:37:11">
+      </item>
+      <item cat="23" id="229" views="0" peso="1" lang="pt" titulo="1927 - 1928" lead="" texto="" data_inicio="1927-09-13" data_fim="1928-08-31" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:37:58">
+      </item>
+      <item cat="23" id="230" views="0" peso="1" lang="pt" titulo="1932 - 1933" lead="" texto="" data_inicio="1932-09-13" data_fim="1933-09-15" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:39:00">
+      </item>
+      <item cat="23" id="231" views="0" peso="1" lang="pt" titulo="1933 - 1934" lead="" texto="" data_inicio="1933-09-16" data_fim="1934-09-17" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:40:08">
+      </item>
+      <item cat="23" id="232" views="0" peso="1" lang="pt" titulo="1923 - 1924" lead="" texto="" data_inicio="1923-09-05" data_fim="1924-07-29" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:43:45">
+      </item>
+      <item cat="23" id="233" views="0" peso="1" lang="pt" titulo="1924 - 1925" lead="" texto="" data_inicio="1924-07-30" data_fim="1925-08-04" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:45:24">
+      </item>
+      <item cat="23" id="234" views="0" peso="1" lang="pt" titulo="1925 - 1926" lead="" texto="" data_inicio="1925-08-05" data_fim="1926-07-27" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:46:23">
+      </item>
+      <item cat="23" id="236" views="0" peso="1" lang="pt" titulo="1926 - 1927" lead="" texto="" data_inicio="1926-07-28" data_fim="1927-09-12" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:48:15">
+      </item>
+      <item cat="23" id="237" views="0" peso="1" lang="pt" titulo="1928 - 1929" lead="" texto="" data_inicio="1928-09-01" data_fim="1929-03-12" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:49:13">
+      </item>
+      <item cat="23" id="238" views="0" peso="1" lang="pt" titulo="1950 - 1951" lead="Preside Comissão Administrativa que gere o clube" texto="" data_inicio="1950-09-02" data_fim="1951-03-29" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:50:04">
+      </item>
+      <item cat="23" id="239" views="0" peso="1" lang="pt" titulo="1951 - 1952" lead="" texto="" data_inicio="1951-03-30" data_fim="1952-01-30" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:50:55">
+      </item>
+      <item cat="23" id="240" views="0" peso="1" lang="pt" titulo="1952 - 1953" lead="" texto="" data_inicio="1952-01-31" data_fim="1953-02-23" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:52:04">
+      </item>
+      <item cat="23" id="241" views="0" peso="1" lang="pt" titulo="1953 - 1954" lead="" texto="" data_inicio="1953-02-24" data_fim="1954-02-25" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:53:20">
+      </item>
+      <item cat="23" id="248" views="0" peso="1" lang="pt" titulo="1929 - 1929" lead="Integra Comissão Administrativa que gere o clube presidida por Manuel Cardoso do Carmo" texto="" data_inicio="1929-03-13" data_fim="1929-08-16" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="10:59:12">
+      </item>
+      <item cat="23" id="249" views="0" peso="1" lang="pt" titulo="1929 - 1930" lead="" texto="" data_inicio="1929-08-17" data_fim="1930-08-05" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:00:12">
+      </item>
+      <item cat="23" id="251" views="0" peso="1" lang="pt" titulo="1930 - 1931 " lead="" texto="" data_inicio="1930-08-06" data_fim="1931-09-08" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:01:53">
+      </item>
+      <item cat="23" id="252" views="0" peso="1" lang="pt" titulo="1934 - 1935" lead="" texto="" data_inicio="1934-09-18" data_fim="1935-08-27" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:02:50">
+      </item>
+      <item cat="23" id="253" views="0" peso="1" lang="pt" titulo="1935 - 1936" lead="" texto="" data_inicio="1935-08-28" data_fim="1936-09-30" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:04:22">
+      </item>
+      <item cat="23" id="255" views="0" peso="1" lang="pt" titulo="1936 - 1937" lead="" texto="" data_inicio="1936-10-01" data_fim="1937-10-19" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:05:52">
+      </item>
+      <item cat="23" id="256" views="0" peso="1" lang="pt" titulo="1937 - 1938" lead="" texto="" data_inicio="1937-10-20" data_fim="1938-09-07" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:06:37">
+      </item>
+      <item cat="23" id="261" views="0" peso="1" lang="pt" titulo="1938 - 1939" lead="" texto="" data_inicio="1938-09-08" data_fim="1939-06-08" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:21:44">
+      </item>
+      <item cat="23" id="262" views="0" peso="1" lang="pt" titulo="1939 - 1939" lead="Preside Comissão Administrativa que gere o clube" texto="" data_inicio="1939-06-09" data_fim="1939-07-26" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:22:48">
+      </item>
+      <item cat="23" id="263" views="0" peso="1" lang="pt" titulo="1939 - 1940" lead="" texto="" data_inicio="1939-07-27" data_fim="1940-07-21" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:23:59">
+      </item>
+      <item cat="23" id="264" views="0" peso="1" lang="pt" titulo="1960 - 1961" lead="Preside Comissão Administrativa que gere o clube" texto="" data_inicio="1960-04-02" data_fim="1961-09-24" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:25:00">
+      </item>
+      <item cat="23" id="266" views="0" peso="1" lang="pt" titulo="1940 - 1940 " lead="" texto="" data_inicio="1940-07-22" data_fim="1940-11-03" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:26:32">
+      </item>
+      <item cat="23" id="267" views="0" peso="1" lang="pt" titulo="1940 - 1941" lead="Preside Comissão Administrativa que gere o clube" texto="" data_inicio="1940-11-04" data_fim="1941-10-09" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:27:21">
+      </item>
+      <item cat="23" id="269" views="0" peso="1" lang="pt" titulo="1941 - 1942" lead="" texto="" data_inicio="1941-10-10" data_fim="1942-08-10" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:28:34">
+      </item>
+      <item cat="23" id="270" views="0" peso="1" lang="pt" titulo="1942 - 1944" lead="" texto="" data_inicio="1942-08-11" data_fim="1944-01-20" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:29:33">
+      </item>
+      <item cat="23" id="272" views="0" peso="1" lang="pt" titulo="1944 - 1945" lead="" texto="" data_inicio="1944-01-21" data_fim="1945-05-28" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:30:43">
+      </item>
+      <item cat="23" id="273" views="0" peso="1" lang="pt" titulo="1959 - 1960" lead="" texto="" data_inicio="1959-04-06" data_fim="1960-04-01" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:31:38">
+      </item>
+      <item cat="23" id="275" views="0" peso="1" lang="pt" titulo="1945 - 1946" lead="" texto="" data_inicio="1945-05-29" data_fim="1946-03-26" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:32:53">
+      </item>
+      <item cat="23" id="276" views="0" peso="1" lang="pt" titulo="1946 - 1947" lead="" texto="" data_inicio="1946-03-27" data_fim="1947-03-30" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:33:40">
+      </item>
+      <item cat="23" id="277" views="0" peso="1" lang="pt" titulo="1947 - 1948" lead="" texto="" data_inicio="1947-03-31" data_fim="1948-04-06" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:34:36">
+      </item>
+      <item cat="23" id="278" views="0" peso="1" lang="pt" titulo="1955 - 1956" lead="" texto="" data_inicio="1955-03-02" data_fim="1956-03-25" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:35:26">
+      </item>
+      <item cat="23" id="279" views="0" peso="1" lang="pt" titulo="1956 - 1957" lead="" texto="" data_inicio="1956-03-26" data_fim="1957-07-13" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:36:11">
+      </item>
+      <item cat="23" id="280" views="0" peso="1" lang="pt" titulo="1965 - 1967" lead="" texto="" data_inicio="1965-06-30" data_fim="1967-05-02" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:37:02">
+      </item>
+      <item cat="23" id="282" views="0" peso="1" lang="pt" titulo="1948 - 1948" lead="" texto="" data_inicio="1948-04-07" data_fim="1948-07-19" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:38:20">
+      </item>
+      <item cat="23" id="283" views="0" peso="1" lang="pt" titulo="1950 - 1950" lead="" texto="" data_inicio="1950-03-23" data_fim="1950-09-01" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:39:13">
+      </item>
+      <item cat="23" id="285" views="0" peso="1" lang="pt" titulo="1948 - 1949" lead="" texto="" data_inicio="1948-07-20" data_fim="1949-06-19" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:40:33">
+      </item>
+      <item cat="23" id="286" views="0" peso="1" lang="pt" titulo="1949 - 1950" lead="" texto="" data_inicio="1949-06-20" data_fim="1950-03-22" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:41:38">
+      </item>
+      <item cat="23" id="288" views="0" peso="1" lang="pt" titulo="1954 - 1955" lead="" texto="" data_inicio="1954-02-26" data_fim="1955-03-01" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:42:55">
+      </item>
+      <item cat="23" id="289" views="0" peso="1" lang="pt" titulo="1957 - 1959" lead="" texto="" data_inicio="1957-07-14" data_fim="1959-04-05" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:43:48">
+      </item>
+      <item cat="23" id="292" views="0" peso="1" lang="pt" titulo="1957 - 1959" lead="" texto="" data_inicio="1957-07-14" data_fim="1959-04-05" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:45:18">
+      </item>
+      <item cat="23" id="294" views="0" peso="1" lang="pt" titulo="1967 - 1969" lead="" texto="" data_inicio="1967-05-03" data_fim="1969-06-11" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:46:32">
+      </item>
+      <item cat="23" id="295" views="0" peso="1" lang="pt" titulo="1969 - 1972" lead="" texto="" data_inicio="1969-06-12" data_fim="1972-02-06" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:47:18">
+      </item>
+      <item cat="23" id="297" views="0" peso="1" lang="pt" titulo="1972 - 1974" lead="" texto="" data_inicio="1972-02-07" data_fim="1974-06-10" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:48:37">
+      </item>
+      <item cat="23" id="298" views="0" peso="1" lang="pt" titulo="1974 - 1976" lead="" texto="" data_inicio="1974-06-11" data_fim="1976-05-12" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:49:19">
+      </item>
+      <item cat="23" id="299" views="0" peso="1" lang="pt" titulo="1976 - 1978" lead="" texto="" data_inicio="1976-05-13" data_fim="1978-04-23" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:49:59">
+      </item>
+      <item cat="23" id="300" views="0" peso="1" lang="pt" titulo="1978 - 1980" lead="" texto="" data_inicio="1978-04-24" data_fim="1980-07-02" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:50:36">
+      </item>
+      <item cat="23" id="301" views="0" peso="1" lang="pt" titulo="1980 - 1982" lead="" texto="" data_inicio="1980-07-03" data_fim="1982-04-22" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:51:21">
+      </item>
+      <item cat="23" id="303" views="0" peso="1" lang="pt" titulo="1982 - 1984" lead="" texto="" data_inicio="1982-04-23" data_fim="1984-06-08" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:52:23">
+      </item>
+      <item cat="23" id="304" views="0" peso="1" lang="pt" titulo="1984 - 1986 " lead="" texto="" data_inicio="1984-06-09" data_fim="1986-04-17" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:53:03">
+      </item>
+      <item cat="23" id="305" views="0" peso="1" lang="pt" titulo="1986 - 1988" lead="" texto="" data_inicio="1986-04-18" data_fim="1988-06-03" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:53:46">
+      </item>
+      <item cat="23" id="306" views="0" peso="1" lang="pt" titulo="1988 - 1991" lead="" texto="" data_inicio="1988-06-04" data_fim="1991-06-13" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:54:31">
+      </item>
+      <item cat="23" id="307" views="0" peso="1" lang="pt" titulo="1991 - 1994" lead="" texto="" data_inicio="1991-06-14" data_fim="1994-07-03" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:55:12">
+      </item>
+      <item cat="23" id="308" views="0" peso="1" lang="pt" titulo="1994 - 1998" lead="" texto="" data_inicio="1994-07-04" data_fim="1998-01-16" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:55:57">
+      </item>
+      <item cat="23" id="309" views="0" peso="1" lang="pt" titulo="1998 - 2001" lead="" texto="" data_inicio="1998-01-17" data_fim="2001-06-10" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:56:48">
+      </item>
+      <item cat="23" id="310" views="0" peso="1" lang="pt" titulo="2001 - 2004" lead="" texto="" data_inicio="2001-06-11" data_fim="2004-06-03" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:57:35">
+      </item>
+      <item cat="23" id="311" views="0" peso="1" lang="pt" titulo="2004 - 2007" lead="" texto="" data_inicio="2004-06-04" data_fim="2007-05-25" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:58:22">
+      </item>
+      <item cat="23" id="312" views="0" peso="1" lang="pt" titulo="2007 - 2010" lead="" texto="" data_inicio="2007-05-26" data_fim="2010-05-16" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:59:13">
+      </item>
+      <item cat="23" id="313" views="0" peso="1" lang="pt" titulo="2010 - 2013" lead="" texto="" data_inicio="2010-05-17" data_fim="2013-05-26" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="11:59:54">
+      </item>
+      <item cat="23" id="314" views="0" peso="1" lang="pt" titulo="2013" lead="Em funções" texto="" data_inicio="2013-05-27" data_fim="" imagem="" imagem_id="0" video="" video_id="0" data_pub="2013-09-07" hora_pub="12:00:40">
+      </item>
+    </mandatos>
+  </contents>
+</app>

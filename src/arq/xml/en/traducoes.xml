@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<app>
+  <contents>
+    <traducoes>
+      <item cat="68" id="160" views="0" lang="en" titulo="Erro ao enviar o seu comentário! Por favor, tente mais tarde!" indentificador="LV_LABEL_ERROR_SENDING" data_pub="2013-09-03" hora_pub="17:30:06">
+      </item>
+      <item cat="68" id="161" views="0" lang="en" titulo="De momento não é possível deixar o seu comentário! Por favor, tente mais tarde!" indentificador="LV_LABEL_NO_INTERNET" data_pub="2013-09-03" hora_pub="17:29:49">
+      </item>
+      <item cat="68" id="162" views="0" lang="en" titulo="A tua mensagem foi submetida com sucesso. Após validação central, será publicada e receberás um e-mail de confirmação." indentificador="LV_LABEL_SUCESS_MESSAGE" data_pub="2013-09-03" hora_pub="17:29:38">
+      </item>
+      <item cat="68" id="163" views="0" lang="en" titulo="DEIXA A TUA" indentificador="LV_LABEL_LEAVE" data_pub="2013-08-29" hora_pub="16:03:37">
+      </item>
+      <item cat="68" id="164" views="0" lang="en" titulo="OBRIGADO!" indentificador="LV_LABEL_GREETING" data_pub="2013-09-03" hora_pub="17:29:29">
+      </item>
+      <item cat="68" id="165" views="0" lang="en" titulo="MENSAGEM" indentificador="LV_LABEL_MESSAGE" data_pub="2013-09-03" hora_pub="17:24:00">
+      </item>
+      <item cat="68" id="166" views="0" lang="en" titulo="Pergunta [0] de [1]" indentificador="LV_LABEL_QUESTION_OF" data_pub="2013-09-03" hora_pub="17:29:17">
+      </item>
+      <item cat="68" id="167" views="0" lang="en" titulo="Deixa a tua mensagem!" indentificador="LV_LABEL_LEAVE_MESSAGE_INFO1" data_pub="2013-09-03" hora_pub="17:24:55">
+      </item>
+      <item cat="68" id="168" views="0" lang="en" titulo="Enquanto processamos a tua mensagem, responde por favor a um breve questionário:" indentificador="LV_LABEL_FILL_SURVEY" data_pub="2013-09-03" hora_pub="17:29:06">
+      </item>
+      <item cat="68" id="169" views="0" lang="en" titulo="Tira uma foto ou grava um vídeo." indentificador="LV_LABEL_LEAVE_MESSAGE_INFO2" data_pub="2013-09-03" hora_pub="17:24:55">
+      </item>
+      <item cat="68" id="170" views="0" lang="en" titulo="Confirma a tua mensagem antes de avançares." indentificador="LV_LABEL_CONFIRM" data_pub="2013-09-03" hora_pub="17:28:53">
+      </item>
+      <item cat="68" id="171" views="0" lang="en" titulo="Se preferires escrever apenas uma mensagem de texto, toca na seta para avançar." indentificador="LV_LABEL_LEAVE_MESSAGE_INFO3" data_pub="2013-09-03" hora_pub="17:24:55">
+      </item>
+      <item cat="68" id="172" views="0" lang="en" titulo="Preenche os teus dados e escreve um texto." indentificador="LV_LABEL_FILL" data_pub="2013-09-03" hora_pub="17:28:33">
+      </item>
+      <item cat="68" id="173" views="0" lang="en" titulo="Tem a certeza que quer cancelar?" indentificador="LV_LABEL_CANCEL_MESSAGE1" data_pub="2013-09-03" hora_pub="17:25:51">
+      </item>
+      <item cat="68" id="174" views="0" lang="en" titulo="Li e aceito os termos e condições de utilização dos meus dados." indentificador="LV_LABEL_AGREEMENT_TEXT" data_pub="2013-09-03" hora_pub="17:28:25">
+      </item>
+      <item cat="68" id="175" views="0" lang="en" titulo="Se cancelar vai perder os conteúdos que inseriu." indentificador="LV_LABEL_CANCEL_MESSAGE2" data_pub="2013-09-03" hora_pub="17:25:51">
+      </item>
+      <item cat="68" id="176" views="0" lang="en" titulo="EMAIL INVÁLIDO *" indentificador="LV_LABEL_INVALID_EMAIL" data_pub="2013-09-03" hora_pub="17:28:15">
+      </item>
+      <item cat="68" id="177" views="0" lang="en" titulo="CANCELAR" indentificador="LV_LABEL_CANCEL" data_pub="2013-09-03" hora_pub="17:26:22">
+      </item>
+      <item cat="68" id="178" views="0" lang="en" titulo="Mensagem (Até 230 caracteres) *" indentificador="LV_LABEL_MESSAGE_TEXT" data_pub="2013-09-03" hora_pub="17:27:59">
+      </item>
+      <item cat="68" id="179" views="0" lang="en" titulo="VOLTAR" indentificador="LV_LABEL_BACK" data_pub="2013-09-03" hora_pub="17:26:53">
+      </item>
+      <item cat="68" id="180" views="0" lang="en" titulo="E-mail *" indentificador="LV_LABEL_EMAIL" data_pub="2013-09-03" hora_pub="17:27:15">
+      </item>
+      <item cat="68" id="181" views="0" lang="en" titulo="Localidade *" indentificador="LV_LABEL_LOCATION" data_pub="2013-09-03" hora_pub="17:27:15">
+      </item>
+      <item cat="68" id="182" views="0" lang="en" titulo="Nome *" indentificador="LV_LABEL_NAME" data_pub="2013-09-03" hora_pub="17:27:04">
+      </item>
+    </traducoes>
+  </contents>
+</app>

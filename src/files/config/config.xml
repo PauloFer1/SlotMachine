@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<server_link>http://ec2-54-166-204-214.compute-1.amazonaws.com</server_link>
+	<probabilities>0.8</probabilities>
+	<renew_qrcode>0</renew_qrcode>
+	<renew_time>240</renew_time>
+	<color_bg>0xFF3333</color_bg>
+	<trad>
+		<sem_conteudo>
+			<pt>Lingua sem conteúdos!</pt>
+			<en>Language without contents!!</en>
+		</sem_conteudo>
+	</trad>
+	<langs>
+		<lang>PT</lang>
+		<lang>EN</lang>	
+	</langs>
+	<font text_size="16" title_size="22"/>
+</config>
