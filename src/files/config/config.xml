@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config>
 	<server_link>http://ec2-54-166-204-214.compute-1.amazonaws.com</server_link>
+	<socketPort>8089</socketPort>
 	<probabilities>0.8</probabilities>
 	<renew_qrcode>0</renew_qrcode>
 	<renew_time>240</renew_time>

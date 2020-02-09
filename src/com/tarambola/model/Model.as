@@ -162,10 +162,15 @@ package com.tarambola.model
 		{
 			return(this._configXML.trad.child(name).child(lang));
 		}
-		public function getServerUrl():String
-		{
+
+		public function getServerUrl():String {
 			return(this._configXML.server_link);
 		}
+
+		public function getSocketPort(): int {
+			return _configXML.socketPort;
+		}
+
 		public function getProbabilities():Number
 		{
 			return(Number(this._configXML.probabilities));

@@ -1,8 +1,7 @@
 package com.tarambola.controller
 {
-	import com.tarambola.controller.NavEvents;
 	import com.tarambola.model.Classes.Constants;
-	
+	import com.tarambola.model.Model;
 	import flash.events.Event;
 	import flash.events.ProgressEvent;
 	import flash.events.ServerSocketConnectEvent;
@@ -14,21 +13,25 @@ package com.tarambola.controller
 
 	public class SocketController
 	{
+		private var model: Model;
 		private var _server:ServerSocket;
 		private var _socket:Socket;
 		private var _timer:Timer;
 		private var _time:uint=30;
 		private var _socketWritter:Socket;
 		
-		public function SocketController()
-		{
+		public function SocketController(model: Model) {
+			this.model = model;
+		}
+
+		function initSocket(): void {
 			this._server = new ServerSocket();
 			this._server.addEventListener(Event.CONNECT, onConnect);
 			this._server.addEventListener(ProgressEvent.SOCKET_DATA, onData);
 			this._server.addEventListener(Event.CLOSE, onClose);
-			this._server.bind(8089); // Pass in the port number you want to listen on
+			this._server.bind(model.getSocketPort());
 			this._server.listen();
-			
+
 			this._timer = new Timer(1000, 5);
 			this._timer.addEventListener(TimerEvent.TIMER, writeInSocket);
 			this._timer.addEventListener(TimerEvent.TIMER_COMPLETE, closeSocket);

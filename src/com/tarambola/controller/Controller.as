@@ -11,11 +11,12 @@ package com.tarambola.controller
 		
 		public function Controller(model:Model)
 		{
-			this.model=model;
-			this._socketController = new SocketController();	
+			this.model = model;
+			this._socketController = new SocketController(model);
 		}
 		public function init():void
 		{
+			_socketController.initSocket();
 		}
 	}
 }
