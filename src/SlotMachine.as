@@ -46,7 +46,7 @@ package
 		{
 			super();
 			
-			stage.scaleMode = StageScaleMode.EXACT_FIT;
+			stage.scaleMode = StageScaleMode.NO_SCALE;
 			stage.nativeWindow.visible = true;
 			if(!Capabilities.isDebugger)
 				stage.nativeWindow.alwaysInFront=true;
@@ -58,10 +58,10 @@ package
 		{
 			this.removeEventListener(flash.events.Event.ADDED_TO_STAGE, addToStage);
 			
-			stage.nativeWindow.width = stage.fullScreenWidth;
-			stage.nativeWindow.height = stage.fullScreenHeight;
-			stage.stageWidth = stage.fullScreenWidth;
-			stage.stageHeight = stage.fullScreenHeight;
+			stage.nativeWindow.width = APP_WIDTH;
+			stage.nativeWindow.height = APP_HEIGHT;
+			stage.stageWidth = APP_WIDTH;
+			stage.stageHeight = APP_HEIGHT;
 			
 			var always:Boolean=false;
 			if(!Capabilities.isDebugger)
@@ -72,16 +72,14 @@ package
 				this._core.init(stage, this, 1, always, "ALL.LOADED", true);
 
 			
-			var stageWidth:int   = stage.nativeWindow.width;
-			var stageHeight:int  = stage.nativeWindow.height;
-			
-			var sx:Number = stageWidth/APP_WIDTH;
-			var sy:Number = stageHeight/APP_HEIGHT;
+			var stageWidth:int   = APP_WIDTH;
+			var stageHeight:int  = APP_HEIGHT;
+
 			var viewPort:Rectangle = RectangleUtil.fit(
-				new Rectangle(0, 0, stageWidth, stageHeight), 
+				new Rectangle(0, 0, APP_WIDTH, APP_HEIGHT),
 				new Rectangle(0, 0, APP_WIDTH, APP_HEIGHT),
 				ScaleMode.NO_BORDER);
-			
+
 			ErrorDisplay.getInstance().init(stage, this);
 			ErrorDisplay.getInstance().showError("A INICIAR...");
 			
@@ -103,7 +101,6 @@ package
 			//******** STATS ********//
 			//this.starling.showStats = true;
 			//this.starling.showStatsAt("left", "bottom");
-			//this.starling.simulateMultitouch = true;
 			
 			//** WAITING FOR STARLING
 			this.starling.addEventListener(starling.events.Event.ROOT_CREATED, onRootCreated);
@@ -124,7 +121,7 @@ package
 		}
 		private function removeInitBg():void
 		{
-			// TODO Auto Generated method stub
+			Arq.getInstance().controller.init();
 		}
 		private function setWindow(evt:TimerEvent=null):void
 		{
